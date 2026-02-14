@@ -1,0 +1,9 @@
+/* Dyslexia-friendly font fallback */
+/* Using Comic Sans MS and similar fonts that are shown to be more readable for dyslexic users */
+/* In a production app, you would import OpenDyslexic or similar specialized fonts */
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: local('Comic Sans MS'), local('Verdana'), local('Arial');
+  font-display: swap;
+}
