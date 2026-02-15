@@ -12,3 +12,13 @@ Offer micro-rewards and celebrations to boost motivation
 Store user preferences securely with a privacy-first approach
 Reduce dependence on caregivers for daily task management
 The ultimate goal is to increase autonomy, confidence, and independence for neurodivergent individuals.
+
+Tech-stack used:-
+UI/UX Design: Figma
+
+Frontend (Planned): Flutter / React Native
+
+Backend (Planned): Firebase / Node.js
+
+Database (Planned): Firestore / MongoDB
+
